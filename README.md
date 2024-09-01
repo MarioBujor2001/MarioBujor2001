@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
-<h3 align="center">Aspiring fullstack developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **DriverBuddy - React Native**
+- 🌱 I’m currently learning **Kafka and microservice architecture**
 
-- 🌱 I’m currently learning **Google Cloud Platform and React Native**
-
-- 💬 Ask me about **React, Spring and Java in general**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **bujormario2001@gmail.com**
 
@@ -19,5 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariobujor2001&show_icons=true&locale=en&layout=compact&theme=dark" alt="mariobujor2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariobujor2001&show_icons=true&theme=dark&locale=en" alt="mariobujor2001" /></p>
 
